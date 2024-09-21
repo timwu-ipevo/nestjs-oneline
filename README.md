@@ -58,6 +58,9 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Deploy on GCP
+* take a look of the cloudbuild.yaml.  [reference](https://eichgi.hashnode.dev/deploying-a-gcp-cloud-function-with-nestjs-via-cloud-build)
+
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
